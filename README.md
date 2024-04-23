@@ -1,0 +1,1 @@
+The App.js imports necessary modules and components, sets up state variables for movies and search term, and defines a function to fetch movies from the OMDb API based on user input. It renders a search input field and a list of movie cards, updating dynamically as the user interacts with the search. If no movies match the search term, it displays a message.
